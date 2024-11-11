@@ -12,6 +12,7 @@ pyarrow = "*"
 pyyaml = "*"
 moto = "*"
 coverage = "*"
+collection = "*"
 
 [dev-packages]
 
